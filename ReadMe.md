@@ -1,5 +1,11 @@
 # Projeto Salão de Beleza
 
+## imagens da landing page
+![desktop](landing_page_images/desktop.png)
+![iphone_14_pro_max](landing_page_images/iphone_14_pro_max.png)
+![ipad_pro](landing_page_images/ipad_pro.png)
+![surface_pro_7](landing_page_images/surface_pro_7.png)
+
 ## O que eu fiz
 Usando meus conhecimentos criei uma landing page de um salão de beleza utilizando html, css e aplicando conceitos de ux e ui design
 
