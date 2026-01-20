@@ -6,6 +6,10 @@
 ![ipad_pro](landing_page_images/ipad_pro.png)
 ![surface_pro_7](landing_page_images/surface_pro_7.png)
 
+## link da landing page
+
+https://williamleles.github.io/projeto_salao_de_beleza/
+
 ## O que eu fiz
 Usando meus conhecimentos criei uma landing page de um salão de beleza utilizando html, css e aplicando conceitos de ux e ui design
 
