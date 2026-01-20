@@ -1,0 +1,81 @@
+
+    
+
+
+
+
+
+@media screen and (min-width: 700px) and (min-height: 1000px) and (max-width: 1200px) {
+
+
+    h1#nome {
+    font-size: 4.5rem;
+    padding-bottom: 0}
+    
+
+    main {
+        padding-bottom: 7rem;
+    }
+
+    ul {
+        padding-left: 8rem;
+    }
+
+   li {
+        font-size: 4rem;
+    }
+
+    p#texto_atrativo {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    a#link {
+        font-size: 5rem;
+    }
+
+    img#logo_whatsapp {
+        width: 8rem;
+        height: 8rem;
+    }
+}
+    
+@media screen and (min-width: 1300px) and (min-height: 900px)  {
+
+body {
+    gap: 0;
+}
+
+header {
+    max-height: 400px;
+}
+
+h1#nome {
+    font-size: 6rem;
+}
+
+main {
+    padding-bottom: 5rem;
+}
+
+p#texto_atrativo {
+    font-size: 2.5rem;
+}
+
+ul {
+    padding-left: 5rem;
+}
+
+li {
+    font-size: 2.5rem;
+}
+
+a#link {
+    font-size: 3rem;
+}
+
+img#logo_whatsapp {
+    width: 5rem;
+    height: 5rem;
+}
+}

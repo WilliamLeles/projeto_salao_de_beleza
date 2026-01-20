@@ -1,0 +1,73 @@
+
+body {
+    min-height: 100vh;
+    display: grid;
+}
+
+header {
+    display: grid;
+    width: 100%;
+    justify-content: center;
+}
+
+#cabeleireira {
+    margin: 0 auto;
+}
+
+#nome {
+    margin-top: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+main {
+    display: grid;
+    gap: 1rem;
+    width: 100%;
+    padding-bottom: 6rem;
+}
+
+
+#texto_atrativo {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+ul {
+    color: #856535;
+}
+
+li {
+    font-size: 2.5rem;
+}
+
+footer {
+    display: grid;
+    align-content: end;
+}
+
+#link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    font-size: 2rem;
+    color: #000000;
+    font-weight: bold;
+}
+
+
+#logo_whatsapp {
+    width: 4rem;
+    height: 4rem;
+}
+
+#credits {
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    grid-row: span;
+    justify-self: end;
+    align-self: end;
+}
